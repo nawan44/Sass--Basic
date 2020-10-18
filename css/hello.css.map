@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAIA,AAAA,MAAM,CAAC;EAEC,gBAAgB,EAJL,MAAM;EAKjB,WAAW,EAJA,wBAAwB,EAAE,cAAc,EAAE,KAAK,EAAE,UAAU;EAKtE,SAAS,EAPJ,IAAI;EAQT,KAAK,EATC,IAAI;CAYjB",
+    "sources": [
+        "../scss/hello.scss"
+    ],
+    "names": [],
+    "file": "hello.css"
+}

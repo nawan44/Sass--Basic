@@ -1,0 +1,37 @@
+.main {
+  background-color: lightcoral;
+  & &-heading{
+    font-size: 2em;
+  }
+  & &-paragraph{
+     font-size: 1.4em;
+   }
+}
+
+.main, footer {
+ h1, p{
+   letter-spacing: 1px;
+ } 
+}
+
+//Parent Selector
+.main{
+  .container & {
+    background-color: lightgreen;
+  }
+  .main-heading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  &:hover{
+    background-color: lime;
+  }
+}
+
+.footer{
+  & &-heading {
+    color: magenta;
+  }
+  & &-paragraph {
+    color: yellowgreen;
+  }
+}

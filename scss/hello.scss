@@ -1,0 +1,13 @@
+$colorhello : blue;
+$sizehello : 50px;
+$backgroundhello : yellow;
+$fontfamilyhello : 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+header {
+    
+        background-color: $backgroundhello;
+        font-family:$fontfamilyhello ;
+        font-size: $sizehello;
+        color : $colorhello
+    
+
+}

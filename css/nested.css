@@ -1,0 +1,36 @@
+.main {
+  background-color: lightcoral;
+}
+
+.main .main-heading {
+  font-size: 2em;
+}
+
+.main .main-paragraph {
+  font-size: 1.4em;
+}
+
+.main h1, .main p, footer h1, footer p {
+  letter-spacing: 1px;
+}
+
+.container .main {
+  background-color: lightgreen;
+}
+
+.main .main-heading {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.main:hover {
+  background-color: lime;
+}
+
+.footer .footer-heading {
+  color: magenta;
+}
+
+.footer .footer-paragraph {
+  color: yellowgreen;
+}
+/*# sourceMappingURL=nested.css.map */
