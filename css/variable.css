@@ -1,0 +1,34 @@
+/* 
+Basic
+
+
+:root {
+    --primary-color : lightblue;
+    --secondary-color :green;
+    --text-color :red;
+
+}
+
+body{
+    background-color: var(--primary-color) ;
+}
+h1{
+    color : var(--text-color)
+}
+*/
+h1 {
+  color: blue;
+}
+
+h2 {
+  color: green;
+}
+
+h3 {
+  color: red;
+}
+
+h4 {
+  color: orange;
+}
+/*# sourceMappingURL=variable.css.map */
