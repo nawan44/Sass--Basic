@@ -35,7 +35,7 @@
     flex-direction: $direction;
 }
 .header ul {
-    @include inline-list()
+    @include inline-list();
     li{
         background-color: orange ;        padding : 5px;
         a {
@@ -45,7 +45,7 @@
     }
 }
 .footer ul{
-    @include inline-list()
+    @include inline-list();
     li{
         padding : 0.5em;
         background-color : blue;

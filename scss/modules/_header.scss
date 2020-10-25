@@ -1,0 +1,10 @@
+.header ul {
+    @include inline-list();
+    li{
+        background-color: orange ;        padding : 5px;
+        a {
+            color : green;
+        }
+
+    }
+}

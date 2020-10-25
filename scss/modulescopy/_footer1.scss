@@ -1,0 +1,11 @@
+.footer ul{
+    @include inline-list();
+    li{
+        padding : 0.5em;
+        background-color : blue;
+        a {
+            color : white;
+            text-decoration: none;
+        }
+    }
+}
