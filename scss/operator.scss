@@ -1,0 +1,14 @@
+.container {
+    width: 100%;
+    background-color: khaki;
+}
+article[role="main"] {
+    float: left;
+    width: 600px / 960px * 100%;
+    background-color: greenyellow;
+}
+aside[role="complementary"] {
+    float: right;
+    background-color: hotpink;
+    width: 300px / 960px * 100%;
+}

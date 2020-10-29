@@ -1,0 +1,17 @@
+.container {
+  width: 100%;
+  background-color: khaki;
+}
+
+article[role="main"] {
+  float: left;
+  width: 62.5%;
+  background-color: greenyellow;
+}
+
+aside[role="complementary"] {
+  float: right;
+  background-color: hotpink;
+  width: 31.25%;
+}
+/*# sourceMappingURL=operator.css.map */
