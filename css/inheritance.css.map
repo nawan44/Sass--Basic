@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAaE,AAbF,QAaU,EAIR,QAAQ,EAKR,MAAM,EAKN,QAAQ,CA3BM;EACZ,MAAM,EAAE,cAAc;EACtB,OAAO,EAAE,IAAI;EACb,MAAM,EAAE,MAAM;EACd,KAAK,EAAE,IAAI;CACZ;;AAYD,AAAA,QAAQ,CAAC;EAEP,YAAY,EAAE,KAAK;CACpB;;AAED,AAAA,MAAM,CAAC;EAEL,YAAY,EAAE,GAAG;CAClB;;AAED,AAAA,QAAQ,CAAC;EAEP,YAAY,EAAE,MAAM;CACrB",
+    "sources": [
+        "../scss/inheritance.scss"
+    ],
+    "names": [],
+    "file": "inheritance.css"
+}

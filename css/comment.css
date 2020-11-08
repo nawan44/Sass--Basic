@@ -1,0 +1,48 @@
+/* 
+Basic
+
+
+:root {
+    --primary-color : lightblue;
+    --secondary-color :green;
+    --text-color :red;
+
+}
+
+body{
+    background-color: var(--primary-color) ;
+}
+h1{
+    color : var(--text-color)
+}
+*/
+/*
+$color: (
+    'danger' : red,
+    'success' : green,
+    'warning' : orange
+);
+
+body {
+    $background-color2 : lightyellow;
+    $background-color: $background-color2;
+    $background-color3 : red !global; 
+
+}
+
+h1{
+    color: $text-color;
+}
+h2{
+    color: $background-color2 ;
+}
+
+h3{
+    color: $background-color3;
+}
+
+h4{
+    color : map-get($color , 'warning' )
+}
+*/
+/*# sourceMappingURL=comment.css.map */

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACA;;;;;;;;;;;;;;;;;EAiBE;AAYF;;;;;;;;;;;;;;;;;;;;;;;;;;;;EA4BE",
+    "sources": [
+        "../scss/comment.scss"
+    ],
+    "names": [],
+    "file": "comment.css"
+}
